@@ -1,0 +1,19 @@
+# Gambas Project File 3.0
+Title=VentanasHorizontalesChrome
+Startup=Main
+Icon=icono.png
+Version=0.0.1
+Description="Pone horizontalmente dos ventanas de chrome"
+Authors="jsbsan"
+TabSize=4
+Language=en_US
+Maintainer=mint
+Address=mint@mint-SSD
+License=General Public License
+PackageName=vh-0.0.1
+CreateEachDirectory=1
+Packager=1
+Systems=debian
+Menus=debian:"Applications/Graphics"
+Categories=debian:"Graphics"
+Groups=debian:"admin"
