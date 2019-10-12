@@ -1,11 +1,11 @@
 # Gambas Project File 3.0
-Title=VentanasHorizontalesChrome
+Title=VentanasVerticalesChrome
 Startup=Main
 Icon=icono.png
 Version=0.0.1
 Component=gb.image
 Component=gb.qt4
-Description="Pone horizontalmente dos ventanas de chrome"
+Description="Pone vertical dos ventanas de chrome en el segundo monitor"
 Authors="jsbsan"
 TabSize=4
 Language=en_US
